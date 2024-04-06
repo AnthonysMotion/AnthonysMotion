@@ -8,3 +8,5 @@ my design portfolio can be found at <a href="https://anthonythach.com/" target="
 
 ---
 <img src="https://skillicons.dev/icons?i=py,java,c,cs,html,css,js,ts,nodejs,discordjs,graphql" width=40%>
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31m6v3tqitvlii5rtyogix2kjnia&cover_image=true&theme=natemoo-re&show_offline=false&background_color=161f24&bar_color=FFD2D2&bar_color_cover=false" width=30%>
