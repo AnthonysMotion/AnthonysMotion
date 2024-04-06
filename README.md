@@ -1,3 +1,4 @@
+<br>
 <img src="https://readme-typing-svg.demolab.com/?font=segoe+ui&pause=500&vCenter=true&random=false&width=435&height=25&lines=hello%2C+i%27m+anthony!;nice+to+meet+you!">
 
 ---
