@@ -4,7 +4,7 @@
 ---
 freelance digital designer & hobbyist developer based in auckland, new zealand
 
-my design portfolio can be found at https://anthonythach.com/ 
+my design portfolio can be found at <a href="https://anthonythach.com/" target="_blank">anthonythach.com</a>
 
 ---
 <img src="https://skillicons.dev/icons?i=py,java,c,cs,html,css,js,ts,nodejs,discordjs,graphql" width=40%>
